@@ -1,0 +1,27 @@
+[
+  {
+    "catId": 1,
+    "name": "meo1",
+    "image": "hinh1"
+  },
+  {
+    "catId": 2,
+    "name": "meo2",
+    "image": "hinh2"
+  },
+  {
+    "catId": 3,
+    "name": "meo3",
+    "image": "hinh3"
+  },
+  {
+    "catId": 4,
+    "name": "meo4",
+    "image": "hinh4"
+  },
+  {
+    "catId": 5,
+    "name": "meo5",
+    "image": "hinh5"
+  }
+]
